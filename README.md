@@ -1,4 +1,4 @@
-# This Repo Will Help You To Get Started With Tf
+# This Repo Will Help You To Get Started With TensorFlow
 
 
 ### Tensor Creation and Attributes
