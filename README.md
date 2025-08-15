@@ -1,6 +1,5 @@
 # This Repo Will Help You To Get Started With TensorFlow
 
-
 ### Tensor Creation and Attributes
 
 * **`tf.constant()`**: Creates a tensor whose value cannot be changed. This is used for fixed values in your model.
